@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d7602f5-6037-445f-bcca-fe43c3c77e99" name="Default Changelist" comment="" />
+    <list default="true" id="3d7602f5-6037-445f-bcca-fe43c3c77e99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/js(hw).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2less(hw)/.idea/2less(hw).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2less(hw)/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2less(hw)/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../2less(hw)/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2LGPMCPj7McGm7Y2ISiTN53tnsJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +35,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -44,6 +56,7 @@
       <updated>1675494401659</updated>
       <workItem from="1675494417311" duration="1217000" />
       <workItem from="1675526443577" duration="6499000" />
+      <workItem from="1675707323383" duration="694000" />
     </task>
     <servers />
   </component>
